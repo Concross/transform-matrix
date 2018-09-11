@@ -14,4 +14,4 @@ const rotateMatrix = (matrix) => {
   return result;
 }
 
-rotateMatrix(testMatrix);
+rotateMatrix(testMatrix); 
